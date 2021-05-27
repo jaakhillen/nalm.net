@@ -1,2 +1,0 @@
-# nalm.net
-Nalm Website
